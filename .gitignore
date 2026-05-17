@@ -29,3 +29,4 @@ TRIAGE.md
 # evolver --loop daemon stand down for a cycle). See src/evolve/guards.js.
 # Always per-machine, never committed.
 .evolver.lock
+.claude-worktrees/
